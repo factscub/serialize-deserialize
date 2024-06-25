@@ -1,0 +1,11 @@
+{
+  "name": "serialize-deserialize",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
